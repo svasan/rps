@@ -23,7 +23,7 @@ $
 
 # Tests
 
-Run tests as:
+Run tests in a bash terminal as:
 
 ```
 $ ./test.sh
